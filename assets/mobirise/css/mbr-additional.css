@@ -1761,8 +1761,8 @@ body {
 .cid-qLVAM44XVz .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-qM6UYqqQfE {
-  background-image: url("../../../assets/images/marca-grfica-01j-1772x1772.jpg");
+.cid-qM8lEmUJNI {
+  background-image: url("../../../assets/images/logonovanova-5-1080x1080.jpg");
 }
 .cid-qLVEEbBJOm {
   padding-top: 45px;
@@ -1862,43 +1862,43 @@ body {
   display: block;
   text-align: center;
 }
-.cid-qLVFySTKya {
+.cid-qM8dxgrraW {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #394549;
+  background-color: #364444;
 }
 @media (max-width: 767px) {
-  .cid-qLVFySTKya .content {
+  .cid-qM8dxgrraW .content {
     text-align: center;
   }
-  .cid-qLVFySTKya .content > div:not(:last-child) {
+  .cid-qM8dxgrraW .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qLVFySTKya .media-wrap {
+  .cid-qM8dxgrraW .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qLVFySTKya .media-wrap .mbr-iconfont-logo {
+.cid-qM8dxgrraW .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qLVFySTKya .media-wrap img {
+.cid-qM8dxgrraW .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qLVFySTKya .footer-lower .copyright {
+  .cid-qM8dxgrraW .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qLVFySTKya .footer-lower hr {
+.cid-qM8dxgrraW .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qLVFySTKya .footer-lower .social-list {
+.cid-qM8dxgrraW .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -1907,28 +1907,25 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qLVFySTKya .footer-lower .social-list .mbr-iconfont-social {
+.cid-qM8dxgrraW .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qLVFySTKya .footer-lower .social-list .soc-item {
+.cid-qM8dxgrraW .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qLVFySTKya .footer-lower .social-list a {
+.cid-qM8dxgrraW .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qLVFySTKya .footer-lower .social-list a:hover {
+.cid-qM8dxgrraW .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qLVFySTKya .footer-lower .social-list {
+  .cid-qM8dxgrraW .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-qLVFySTKya .copyright > p {
-  text-align: center;
 }
